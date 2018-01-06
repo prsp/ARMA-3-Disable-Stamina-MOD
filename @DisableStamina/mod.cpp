@@ -1,0 +1,11 @@
+name = "Disable Stamina";
+author = "XFiRE ARMY";
+picture = "logo.paa";
+logoSmall = "";
+logo = "logo.paa";
+actionName = "Steam";
+action = "http://steamcommunity.com/id/Liberral/myworkshopfiles/?appid=107410";
+tooltipOwned = "Remove Stamina, Disable Fatigue, CustomAimCoef.";
+overview = "Remove Stamina, Disable Fatigue, CustomAimCoef for Scenario Mission or Campaign Mission. Work on SP and MP";
+hideName = 0;
+hidePicture = 0;
